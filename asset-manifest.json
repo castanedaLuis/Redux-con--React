@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/castanedaLuis/Redux-con--React.git/static/css/main.8e006645.css",
+    "main.js": "/castanedaLuis/Redux-con--React.git/static/js/main.8ff9347e.js",
+    "static/media/logo.svg": "/castanedaLuis/Redux-con--React.git/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/castanedaLuis/Redux-con--React.git/index.html",
+    "main.8e006645.css.map": "/castanedaLuis/Redux-con--React.git/static/css/main.8e006645.css.map",
+    "main.8ff9347e.js.map": "/castanedaLuis/Redux-con--React.git/static/js/main.8ff9347e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e006645.css",
+    "static/js/main.8ff9347e.js"
+  ]
+}
